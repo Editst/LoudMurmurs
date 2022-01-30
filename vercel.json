@@ -1,0 +1,17 @@
+{
+  "version": 2,
+	"github": {
+		"silent": true
+	},
+	"headers": [
+		{
+			"source": "/(.*)",
+			"headers": [
+				{
+					"key": "cache-control",
+					"value": "max-age=600, must-revalidate"
+				}
+			]
+		}
+	]
+}
