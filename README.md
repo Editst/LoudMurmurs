@@ -4,6 +4,8 @@
 
 可以 clone 后使用 nginx 代理访问，或直接本地打开浏览。具体 mp3 文件链接见下，可自行下载后放入 `loudmurmursfm` 文件夹，保持文件名一致即可。
 
+也可前往 Telegram 备份频道 [@xsxhfeiguanfang](https://t.me/xsxhfeiguanfang) 或 [@LoudMurmurs](https://t.me/LoudMurmurs) 自行下载音频，**上述频道均非本人创建，概不负责。**
+
 ```raw
 https://v.typlog.com/loudmurmursfm/8356656373_019573.mp3
 https://v.typlog.com/loudmurmursfm/8359104236_017854.mp3
