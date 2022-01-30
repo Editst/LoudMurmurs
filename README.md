@@ -2,7 +2,7 @@
 
 使用 [HTTrack](https://www.httrack.com/) 备份的小声喧哗官网，由于 GitHub 限制，未上传 mp3 文件，后续想办法补全。
 
-可以 clone 后使用 nginx 代理访问，或直接本地打开浏览。具体 mp3 文件链接见下，可自行下载后放入 mp3 文件夹，保持文件名一致即可。
+可以 clone 后使用 nginx 代理访问，或直接本地打开浏览。具体 mp3 文件链接见下，可自行下载后放入 `loudmurmursfm` 文件夹，保持文件名一致即可。
 
 ```raw
 https://v.typlog.com/loudmurmursfm/8356656373_019573.mp3
