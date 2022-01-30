@@ -1,8 +1,10 @@
 ## 小声喧哗 Loud Murmurs 网站备份
 
-使用 [HTTrack](https://www.httrack.com/) 备份的小声喧哗官网，由于 GitHub 限制，未上传 mp3 文件，后续想办法补全。
+使用 [HTTrack](https://www.httrack.com/) 备份的小声喧哗官网，由于 GitHub 限制，未上传 mp3 文件。
 
-可以 clone 后使用 nginx 代理访问，或直接本地打开浏览。具体 mp3 文件链接见下，可自行下载后放入 `loudmurmursfm` 文件夹，保持文件名一致即可。
+使用 [vercel](https://vercel.com/) 搭建了一个在线版本：https://loudmurmurs.vercel.app ，也可以 clone 后自己使用 nginx 代理访问，或直接本地打开浏览。
+
+具体 mp3 文件链接见下，可自行下载后放入 `loudmurmursfm` 文件夹，保持文件名一致即可。
 
 也可前往 Telegram 备份频道 [@xsxhfeiguanfang](https://t.me/xsxhfeiguanfang) 或 [@LoudMurmurs](https://t.me/LoudMurmurs) 自行下载音频，**上述频道均非本人创建，概不负责。**
 
