@@ -14,7 +14,7 @@
       ]
     }
   ],
-  "redirect": [
+  "redirects": [
     {
       "source": "/index-2.html",
       "destination": "/index.html",
