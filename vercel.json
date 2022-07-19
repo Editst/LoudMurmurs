@@ -18,7 +18,7 @@
     {
       "source": "/index-2.html",
       "destination": "/index.html",
-      "permanent": false
+      "permanent": true
     }
   ]
 }
