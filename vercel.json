@@ -4,20 +4,20 @@
     "silent": true
   },
   "headers": [
-        {
+    {
       "source": "/(.*)",
       "headers": [
         {
           "key": "cache-control",
           "value": "max-age=600, must-revalidate"
         }
-      ],
-      "rewrites": [
-        {
-          "source": "/index-2.html",
-          "destination": "/index.html"
-        }
       ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/index-2.html",
+      "destination": "/index.html"
     }
   ]
 }
