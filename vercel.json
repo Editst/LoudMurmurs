@@ -14,10 +14,11 @@
       ]
     }
   ],
-  "rewrites": [
+  "redirect": [
     {
       "source": "/index-2.html",
-      "destination": "/index.html"
+      "destination": "/index.html",
+      "permanent": false
     }
   ]
 }
