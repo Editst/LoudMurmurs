@@ -9,7 +9,7 @@
       "headers": [
         {
           "key": "cache-control",
-          "value": "max-age=600, must-revalidate"
+          "value": "max-age=31536000, immutable"
         }
       ]
     }
